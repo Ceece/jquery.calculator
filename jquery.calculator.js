@@ -124,8 +124,7 @@
             });
         }
 
-        $(element).html(template)
-        .find(".calculator-button").click(press);
+        $(element).html(template).find(".calculator-button").click(press);
     }
 
     $.fn.calculator = function(options) {
