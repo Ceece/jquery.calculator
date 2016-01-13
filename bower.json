@@ -1,0 +1,25 @@
+{
+  "name": "jquery.calculator",
+  "authors": [
+    "Teerapong Manakul <teerapong.m@outlook.com>"
+  ],
+  "description": "Generate calculator on html",
+  "main": "jquery.calculator.js",
+  "moduleType": [],
+  "keywords": [
+    "jquery",
+    "calculator"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0"
+  }
+}

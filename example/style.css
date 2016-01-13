@@ -1,0 +1,17 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+.section-outer {
+  display: table;
+  height: 100%;
+  width: 100%;
+}
+
+.section-inner {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
